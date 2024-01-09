@@ -15,11 +15,12 @@ Data Cleaning,
 Data Visualizations,
 Model Performance,
 Result**
-Model Performance Metrics:
 
-**Decision Tree Model**
+**Model Performance Metrics:**
 
-**Logistic Regression Model**
+**1) Decision Tree Model**
+
+**2) Logistic Regression Model**
 
 **Present performance metrics (accuracy, precision, recall) to access the effectiveness of both machine learning models.**
 
