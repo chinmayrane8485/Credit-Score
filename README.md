@@ -7,11 +7,11 @@ Low Credit Score: (300-580)
 Challenges in obtaining credit, and if approved, the terms may be less favorable.
 
 **Methods:
-Importing Libraries
-Loading Data Files
-Data Overview
-Data Defining
-Data Cleaning
-Data Visualizations
-Model Performance
+Importing Libraries,
+Loading Data Files,
+Data Overview,
+Data Defining,
+Data Cleaning,
+Data Visualizations,
+Model Performance,
 Result**
